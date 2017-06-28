@@ -1,0 +1,16 @@
+package com.in28minutes.springboot.controller;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class SurveyControllerIT {
+
+	@Test
+	@RunWith(SpringRunner.class)
+	public void test() {
+		
+		
+	}
+
+}
